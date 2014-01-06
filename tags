@@ -1,0 +1,725 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADD	mpaudec.c	564;"	d	file:
+ARRAY_SIZE	fifo.h	7;"	d
+AUDIO_ALSA	audio_output.h	/^	AUDIO_ALSA,$/;"	e	enum:__anon1
+AUDIO_GSTREAMER	audio_output.h	/^	AUDIO_GSTREAMER$/;"	e	enum:__anon1
+BACKSTEP_SIZE	mpaudec.c	67;"	d	file:
+BF	mpaudec.c	539;"	d	file:
+BF1	mpaudec.c	547;"	d	file:
+BF2	mpaudec.c	554;"	d	file:
+BUFF_LEN	http.h	5;"	d
+C1	mpaudec.c	876;"	d	file:
+C1	mpaudec.c	921;"	d	file:
+C1	mpaudec.c	929;"	d	file:
+C11	mpaudec.c	881;"	d	file:
+C11	mpaudec.c	926;"	d	file:
+C2	mpaudec.c	930;"	d	file:
+C3	mpaudec.c	877;"	d	file:
+C3	mpaudec.c	922;"	d	file:
+C3	mpaudec.c	931;"	d	file:
+C4	mpaudec.c	932;"	d	file:
+C5	mpaudec.c	878;"	d	file:
+C5	mpaudec.c	923;"	d	file:
+C5	mpaudec.c	933;"	d	file:
+C6	mpaudec.c	934;"	d	file:
+C7	mpaudec.c	879;"	d	file:
+C7	mpaudec.c	924;"	d	file:
+C7	mpaudec.c	935;"	d	file:
+C8	mpaudec.c	936;"	d	file:
+C9	mpaudec.c	880;"	d	file:
+C9	mpaudec.c	925;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -I. -Wall `pkg-config gstreamer-0.10 --cflags`$/;"	m
+CHECK_APIC_V3	mp3.c	27;"	d	file:
+CHECK_PIC_V2	mp3.c	33;"	d	file:
+CHECK_SLT_V2	mp3.c	32;"	d	file:
+CHECK_TIT2_V3	mp3.c	25;"	d	file:
+CHECK_TT2_V2	mp3.c	31;"	d	file:
+CHECK_USLT_V3	mp3.c	26;"	d	file:
+CONFIG_WIN32	internal.h	8;"	d
+COS0_0	mpaudec.c	502;"	d	file:
+COS0_1	mpaudec.c	503;"	d	file:
+COS0_10	mpaudec.c	512;"	d	file:
+COS0_11	mpaudec.c	513;"	d	file:
+COS0_12	mpaudec.c	514;"	d	file:
+COS0_13	mpaudec.c	515;"	d	file:
+COS0_14	mpaudec.c	516;"	d	file:
+COS0_15	mpaudec.c	517;"	d	file:
+COS0_2	mpaudec.c	504;"	d	file:
+COS0_3	mpaudec.c	505;"	d	file:
+COS0_4	mpaudec.c	506;"	d	file:
+COS0_5	mpaudec.c	507;"	d	file:
+COS0_6	mpaudec.c	508;"	d	file:
+COS0_7	mpaudec.c	509;"	d	file:
+COS0_8	mpaudec.c	510;"	d	file:
+COS0_9	mpaudec.c	511;"	d	file:
+COS1_0	mpaudec.c	519;"	d	file:
+COS1_1	mpaudec.c	520;"	d	file:
+COS1_2	mpaudec.c	521;"	d	file:
+COS1_3	mpaudec.c	522;"	d	file:
+COS1_4	mpaudec.c	523;"	d	file:
+COS1_5	mpaudec.c	524;"	d	file:
+COS1_6	mpaudec.c	525;"	d	file:
+COS1_7	mpaudec.c	526;"	d	file:
+COS2_0	mpaudec.c	528;"	d	file:
+COS2_1	mpaudec.c	529;"	d	file:
+COS2_2	mpaudec.c	530;"	d	file:
+COS2_3	mpaudec.c	531;"	d	file:
+COS3_0	mpaudec.c	533;"	d	file:
+COS3_1	mpaudec.c	534;"	d	file:
+COS4_0	mpaudec.c	536;"	d	file:
+CreateNode	list.c	/^static Node *CreateNode(LrcData data)$/;"	f	file:	signature:(LrcData data)
+DATALEN	lrc.h	7;"	d
+DATA_BUFF_SIZE	icon.h	6;"	d
+DEBUG	internal.h	37;"	d
+DEF_FILE	icon.h	11;"	d
+DEVICE	alsa.c	4;"	d	file:
+DEV_ORDER	mpaudec.c	235;"	d	file:
+DPRINT	types.h	8;"	d
+Data	list.h	/^	LrcData Data;$/;"	m	struct:_ListNode	access:public
+DeleteNode	list.c	/^Node *DeleteNode(Node *first, timeData time, strData str)$/;"	f	signature:(Node *first, timeData time, strData str)
+DeleteNode	list.h	/^Node *DeleteNode(Node *, timeData, strData);$/;"	p	signature:(Node *, timeData, strData)
+DestroyNode	list.c	/^int DestroyNode(Node *node)$/;"	f	signature:(Node *node)
+DestroyNode	list.h	/^int DestroyNode(Node *);$/;"	p	signature:(Node *)
+FB_DEV	icon.h	8;"	d
+FB_DEV	window.h	64;"	d
+FIFO_LEN	fifo.h	6;"	d
+FILE_LEN	gstreamer.h	5;"	d
+FILE_URI	gstreamer.h	6;"	d
+FIRST_CAT	gstreamer.h	8;"	d
+FIX	mpaudec.c	53;"	d	file:
+FIXR	mpaudec.c	55;"	d	file:
+FRAC_BITS	mpaudec.c	42;"	d	file:
+FRAC_BITS	mpaudec.c	45;"	d	file:
+FRAC_ONE	mpaudec.c	49;"	d	file:
+FRAC_RND	mpaudec.c	56;"	d	file:
+FRAMESIZE_V2	mp3.c	30;"	d	file:
+FRAMESIZE_V3	mp3.c	24;"	d	file:
+FRAME_HEAD_SIZE	mp3.c	23;"	d	file:
+FRAME_HEAD_SIZE_2	mp3.c	29;"	d	file:
+GET_DATA	bits.c	79;"	d	file:
+GSTREAMERDEC	mp3.h	/^	GSTREAMERDEC$/;"	e	enum:__anon3
+GetBitContext	internal.h	/^typedef struct GetBitContext {$/;"	s
+GetBitContext	internal.h	/^} GetBitContext;$/;"	t	typeref:struct:GetBitContext
+GetBitContext::buffer	internal.h	/^    const uint8_t *buffer;$/;"	m	struct:GetBitContext	access:public
+GetBitContext::index	internal.h	/^    int index;$/;"	m	struct:GetBitContext	access:public
+GetBitContext::size_in_bits	internal.h	/^    int size_in_bits;$/;"	m	struct:GetBitContext	access:public
+GranuleDef	mpaudec.c	/^typedef struct GranuleDef {$/;"	s	file:
+GranuleDef	mpaudec.c	/^} GranuleDef;$/;"	t	typeref:struct:GranuleDef	file:
+GranuleDef::big_values	mpaudec.c	/^    int big_values;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::block_type	mpaudec.c	/^    uint8_t block_type;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::count1table_select	mpaudec.c	/^    uint8_t count1table_select;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::global_gain	mpaudec.c	/^    int global_gain;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::long_end	mpaudec.c	/^    int short_start, long_end; \/* long\/short band indexes *\/$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::part2_3_length	mpaudec.c	/^    int part2_3_length;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::preflag	mpaudec.c	/^    int preflag;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::region_size	mpaudec.c	/^    int region_size[3]; \/* number of huffman codes in each region *\/$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::sb_hybrid	mpaudec.c	/^    int32_t sb_hybrid[SBLIMIT * 18]; \/* 576 samples *\/$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::scale_factors	mpaudec.c	/^    uint8_t scale_factors[40];$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::scalefac_compress	mpaudec.c	/^    int scalefac_compress;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::scalefac_scale	mpaudec.c	/^    uint8_t scalefac_scale;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::scfsi	mpaudec.c	/^    uint8_t scfsi;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::short_start	mpaudec.c	/^    int short_start, long_end; \/* long\/short band indexes *\/$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::subblock_gain	mpaudec.c	/^    int subblock_gain[3];$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::switch_point	mpaudec.c	/^    uint8_t switch_point;$/;"	m	struct:GranuleDef	file:	access:public
+GranuleDef::table_select	mpaudec.c	/^    int table_select[3];$/;"	m	struct:GranuleDef	file:	access:public
+HEADER_SIZE	mpaudec.c	66;"	d	file:
+HTTP	sound_file.h	/^	HTTP, LOCAL$/;"	e	enum:__anon2
+HTTP_HEAD_LEN	http.h	8;"	d
+HTTP_LEN	gstreamer.h	3;"	d
+HTTP_URI	gstreamer.h	4;"	d
+HuffTable	mpaudec.c	/^typedef struct HuffTable {$/;"	s	file:
+HuffTable	mpaudec.c	/^} HuffTable;$/;"	t	typeref:struct:HuffTable	file:
+HuffTable::bits	mpaudec.c	/^    const uint8_t *bits;$/;"	m	struct:HuffTable	file:	access:public
+HuffTable::codes	mpaudec.c	/^    const uint16_t *codes;$/;"	m	struct:HuffTable	file:	access:public
+HuffTable::xsize	mpaudec.c	/^    int xsize;$/;"	m	struct:HuffTable	file:	access:public
+ID3SIZE	mp3.c	21;"	d	file:
+ID3_HEAD_SIZE	mp3.c	20;"	d	file:
+ID3_TAG_HEAD_SIZE	mp3.c	14;"	d	file:
+INTERNAL_H	internal.h	5;"	d
+ISQRT2	mpaudec.c	1699;"	d	file:
+InitList	list.c	/^Node *InitList(Node *node)$/;"	f	signature:(Node *node)
+InitList	list.h	/^Node *InitList(Node *);$/;"	p	signature:(Node *)
+InsertList	list.c	/^Node *InsertList(Node *first, LrcData data)$/;"	f	signature:(Node *first, LrcData data)
+InsertList	list.h	/^Node *InsertList(Node *, LrcData);$/;"	p	signature:(Node *, LrcData)
+LDFLAGS	Makefile	/^LDFLAGS = -lpthread -lm -lpng -lasound `pkg-config gstreamer-0.10 --libs`$/;"	m
+LEN	lrc.h	6;"	d
+LEN_W	window.h	65;"	d
+LOAD_BUFF	witplay.c	7;"	d	file:
+LOCAL	sound_file.h	/^	HTTP, LOCAL$/;"	e	enum:__anon2
+LSK_H	window.h	66;"	d
+LrcData	list.h	/^} LrcData;$/;"	t	typeref:struct:_LrcData
+MACS	mpaudec.c	733;"	d	file:
+MODE_EXT_I_STEREO	mpaudec.c	118;"	d	file:
+MODE_EXT_MS_STEREO	mpaudec.c	117;"	d	file:
+MP3_BUFF_SIZE	witplay.c	8;"	d	file:
+MPADecodeContext	mpaudec.c	/^typedef struct MPADecodeContext {$/;"	s	file:
+MPADecodeContext	mpaudec.c	/^} MPADecodeContext;$/;"	t	typeref:struct:MPADecodeContext	file:
+MPADecodeContext::bit_rate	mpaudec.c	/^    int bit_rate;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::error_protection	mpaudec.c	/^    int error_protection;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::frame_count	mpaudec.c	/^    int frame_count;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::frame_size	mpaudec.c	/^    int frame_size;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::free_format_frame_size	mpaudec.c	/^    int free_format_frame_size; \/* frame size in case of free format$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::gb	mpaudec.c	/^    GetBitContext gb;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::inbuf	mpaudec.c	/^    uint8_t *inbuf_ptr, *inbuf;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::inbuf1	mpaudec.c	/^    uint8_t inbuf1[2][MPA_MAX_CODED_FRAME_SIZE + BACKSTEP_SIZE];        \/* input buffer *\/$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::inbuf_index	mpaudec.c	/^    int inbuf_index;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::inbuf_ptr	mpaudec.c	/^    uint8_t *inbuf_ptr, *inbuf;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::layer	mpaudec.c	/^    int layer;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::lsf	mpaudec.c	/^    int lsf;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::mdct_buf	mpaudec.c	/^    int32_t mdct_buf[MPA_MAX_CHANNELS][SBLIMIT * 18]; \/* previous samples, for layer 3 MDCT *\/$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::mode	mpaudec.c	/^    int mode;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::mode_ext	mpaudec.c	/^    int mode_ext;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::nb_channels	mpaudec.c	/^    int nb_channels;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::old_frame_size	mpaudec.c	/^    int old_frame_size;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::sample_rate	mpaudec.c	/^    int sample_rate;$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::sample_rate_index	mpaudec.c	/^    int sample_rate_index; \/* between 0 and 8 *\/$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::sb_samples	mpaudec.c	/^    int32_t sb_samples[MPA_MAX_CHANNELS][36][SBLIMIT];$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::synth_buf	mpaudec.c	/^    MPA_INT synth_buf[MPA_MAX_CHANNELS][512 * 2];$/;"	m	struct:MPADecodeContext	file:	access:public
+MPADecodeContext::synth_buf_offset	mpaudec.c	/^    int synth_buf_offset[MPA_MAX_CHANNELS];$/;"	m	struct:MPADecodeContext	file:	access:public
+MPAUDEC	mp3.h	/^	MPAUDEC,$/;"	e	enum:__anon3
+MPAUDEC_H	mpaudec.h	4;"	d
+MPAUDEC_MAX_AUDIO_FRAME_SIZE	mpaudec.h	11;"	d
+MPA_DUAL	mpegaudio.h	16;"	d
+MPA_FRAME_SIZE	mpegaudio.h	5;"	d
+MPA_INT	mpaudec.c	/^typedef int16_t MPA_INT;$/;"	t	file:
+MPA_INT	mpaudec.c	/^typedef int32_t MPA_INT;$/;"	t	file:
+MPA_JSTEREO	mpegaudio.h	15;"	d
+MPA_MAX_CHANNELS	mpegaudio.h	10;"	d
+MPA_MAX_CODED_FRAME_SIZE	mpegaudio.h	8;"	d
+MPA_MONO	mpegaudio.h	17;"	d
+MPA_STEREO	mpegaudio.h	14;"	d
+MPAuDecContext	mpaudec.h	/^typedef struct MPAuDecContext {$/;"	s
+MPAuDecContext	mpaudec.h	/^} MPAuDecContext;$/;"	t	typeref:struct:MPAuDecContext
+MPAuDecContext::bit_rate	mpaudec.h	/^    int bit_rate;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::channels	mpaudec.h	/^    int channels;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::coded_frame_size	mpaudec.h	/^    int coded_frame_size;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::frame_size	mpaudec.h	/^    int frame_size;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::layer	mpaudec.h	/^    int layer;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::parse_only	mpaudec.h	/^    int parse_only;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::priv_data	mpaudec.h	/^    void *priv_data;$/;"	m	struct:MPAuDecContext	access:public
+MPAuDecContext::sample_rate	mpaudec.h	/^    int sample_rate;$/;"	m	struct:MPAuDecContext	access:public
+MUL64	mpaudec.c	52;"	d	file:
+MULL	mpaudec.c	51;"	d	file:
+MULS	mpaudec.c	736;"	d	file:
+MULS	mpaudec.c	751;"	d	file:
+M_PI	internal.h	20;"	d
+NDEBUG	internal.h	52;"	d
+NISNUM	lrc.h	11;"	d
+Node	list.h	/^} Node;$/;"	t	typeref:struct:_ListNode
+OBJ	Makefile	/^OBJ = $(SRC:%.c=%.o)$/;"	m
+OUT	Makefile	/^OUT = witplayer$/;"	m
+OUT_SHIFT	mpaudec.c	717;"	d	file:
+PATH	mp3.c	16;"	d	file:
+PATH_LEN	gstreamer.h	10;"	d
+PLT_BUFF_SIZE	icon.h	7;"	d
+PNG_MAGIC	icon.h	9;"	d
+POW_FIX	mpaudec.c	239;"	d	file:
+POW_FRAC_BITS	mpaudec.c	237;"	d	file:
+POW_FRAC_ONE	mpaudec.c	238;"	d	file:
+POW_MULL	mpaudec.c	240;"	d	file:
+RAW_BUFF_SIZE	witplay.c	9;"	d	file:
+RQU_LEN	http.h	6;"	d
+SAME_HEADER_MASK	mpaudec.c	1073;"	d	file:
+SBLIMIT	mpegaudio.h	12;"	d
+SCALE_GEN	mpaudec.c	155;"	d	file:
+SEC	http.h	11;"	d
+SECOND_CAT	gstreamer.h	9;"	d
+SERVER_PORT	http.h	10;"	d
+SERVER_PORT	http.h	7;"	d
+SRC	Makefile	/^SRC = $(wildcard *.c)$/;"	m
+STRLEN	list.h	3;"	d
+SUM8	mpaudec.c	755;"	d	file:
+SUM8P2	mpaudec.c	767;"	d	file:
+SoundFileType	sound_file.h	/^} SoundFileType;$/;"	t	typeref:enum:__anon2
+TABLE_4_3_SIZE	mpaudec.c	136;"	d	file:
+TAGV1_CHK	mp3.c	17;"	d	file:
+TAGV1_SIZE	mp3.c	13;"	d	file:
+THREAD_NUM	http.h	9;"	d
+TIME	lrc.h	9;"	d
+TIMECOUNT	lrc.h	8;"	d
+TIME_FORMAT_LEN	gstreamer.h	7;"	d
+TITLE_LEN	mp3.c	19;"	d	file:
+TMP_FILE	icon.h	10;"	d
+Transfer_lyric	lrc.c	/^static struct _ListNode *Transfer_lyric(const u8 *lrc_buff, size_t size, Node *first)$/;"	f	file:	signature:(const u8 *lrc_buff, size_t size, Node *first)
+USE_HIGHPRECISION	mpaudec.c	39;"	d	file:
+VLC	internal.h	/^typedef struct VLC {$/;"	s
+VLC	internal.h	/^} VLC;$/;"	t	typeref:struct:VLC
+VLC::bits	internal.h	/^    int bits;$/;"	m	struct:VLC	access:public
+VLC::table	internal.h	/^    VLC_TYPE (*table)[2];$/;"	m	struct:VLC	access:public
+VLC::table_allocated	internal.h	/^    int table_size, table_allocated;$/;"	m	struct:VLC	access:public
+VLC::table_size	internal.h	/^    int table_size, table_allocated;$/;"	m	struct:VLC	access:public
+VLC_TYPE	internal.h	66;"	d
+WFRAC_BITS	mpaudec.c	43;"	d	file:
+WFRAC_BITS	mpaudec.c	46;"	d	file:
+_ListNode	list.h	/^typedef struct _ListNode{$/;"	s
+_ListNode::Data	list.h	/^	LrcData Data;$/;"	m	struct:_ListNode	access:public
+_ListNode::next	list.h	/^	struct _ListNode *next;$/;"	m	struct:_ListNode	typeref:struct:_ListNode::_ListNode	access:public
+_LrcData	list.h	/^typedef struct _LrcData{$/;"	s
+_LrcData::str	list.h	/^	char str[STRLEN];$/;"	m	struct:_LrcData	access:public
+_LrcData::time	list.h	/^	timeData time;$/;"	m	struct:_LrcData	access:public
+__anon4::b	window.h	/^	char b;$/;"	m	struct:__anon4	access:public
+__anon4::g	window.h	/^	char g;$/;"	m	struct:__anon4	access:public
+__anon4::r	window.h	/^	char r;$/;"	m	struct:__anon4	access:public
+add_lrc	mp3.c	/^static int add_lrc(u8 *title, u8 **lrc, size_t *size)$/;"	f	file:	signature:(u8 *title, u8 **lrc, size_t *size)
+alloc_table	bits.c	/^static int alloc_table(VLC *vlc, int size)$/;"	f	file:	signature:(VLC *vlc, int size)
+alloc_table_0	mpaudectab.h	/^static const unsigned char alloc_table_0[] = {$/;"	v
+alloc_table_1	mpaudectab.h	/^static const unsigned char alloc_table_1[] = {$/;"	v
+alloc_table_2	mpaudectab.h	/^static const unsigned char alloc_table_2[] = {$/;"	v
+alloc_table_3	mpaudectab.h	/^static const unsigned char alloc_table_3[] = {$/;"	v
+alloc_table_4	mpaudectab.h	/^static const unsigned char alloc_table_4[] = {$/;"	v
+alloc_tables	mpaudectab.h	/^static const unsigned char *alloc_tables[5] =$/;"	v
+alpha	icon.h	/^	u8 alpha;$/;"	m	struct:color	access:public
+audio_dev_t	audio_output.h	/^} audio_dev_t;$/;"	t	typeref:enum:__anon1
+audio_output	audio_output.h	/^struct audio_output {$/;"	s
+audio_output::outdev	audio_output.h	/^	void *outdev;$/;"	m	struct:audio_output	access:public
+audio_output::type	audio_output.h	/^	audio_dev_t type;$/;"	m	struct:audio_output	access:public
+b	window.h	/^	char b;$/;"	m	struct:__anon4	access:public
+back_color	window.h	/^	color_t back_color;$/;"	m	struct:progressbar_win	access:public
+back_color	window.h	/^	color_t back_color;$/;"	m	struct:text_win	access:public
+band_index_long	mpaudec.c	/^static uint16_t band_index_long[9][23];$/;"	v	file:
+band_size_long	mpaudectab.h	/^static const uint8_t band_size_long[9][22] = {$/;"	v
+band_size_short	mpaudectab.h	/^static const uint8_t band_size_short[9][13] = {$/;"	v
+bar_color	window.h	/^	color_t bar_color;$/;"	m	struct:progressbar_win	access:public
+big_values	mpaudec.c	/^    int big_values;$/;"	m	struct:GranuleDef	file:	access:public
+bit_rate	mp3.h	/^	int bit_rate;$/;"	m	struct:mp3_param	access:public
+bit_rate	mpaudec.c	/^    int bit_rate;$/;"	m	struct:MPADecodeContext	file:	access:public
+bit_rate	mpaudec.h	/^    int bit_rate;$/;"	m	struct:MPAuDecContext	access:public
+bits	internal.h	/^    int bits;$/;"	m	struct:VLC	access:public
+bits	mpaudec.c	/^    const uint8_t *bits;$/;"	m	struct:HuffTable	file:	access:public
+bits_per_sample	mp3.h	/^	int bits_per_sample;$/;"	m	struct:mp3_param	access:public
+block_type	mpaudec.c	/^    uint8_t block_type;$/;"	m	struct:GranuleDef	file:	access:public
+blue	icon.h	/^	u8 blue;$/;"	m	struct:color	access:public
+bpp	icon.h	/^	int bpp;$/;"	m	struct:screen	access:public
+bpp	window.h	/^	int bpp;$/;"	m	struct:window_info	access:public
+buff	http.h	/^	unsigned char *buff;$/;"	m	struct:download_arg	access:public
+buffer	internal.h	/^    const uint8_t *buffer;$/;"	m	struct:GetBitContext	access:public
+build_table	bits.c	/^static int build_table(VLC *vlc, int table_nb_bits,$/;"	f	file:	signature:(VLC *vlc, int table_nb_bits, int nb_codes, const void *bits, int bits_wrap, int bits_size, const void *codes, int codes_wrap, int codes_size, uint32_t code_prefix, int n_prefix)
+bus_call	gstreamer.c	/^static gboolean bus_call(GstBus *bus, GstMessage *msg, gpointer data)$/;"	f	file:	signature:(GstBus *bus, GstMessage *msg, gpointer data)
+cb_print_position	gstreamer.c	/^static gboolean cb_print_position(GstElement *pipeline)$/;"	f	file:	signature:(GstElement *pipeline)
+change_encode	mp3.c	/^static int change_encode(u8 *buff, size_t size)$/;"	f	file:	signature:(u8 *buff, size_t size)
+channels	mp3.h	/^	int channels;$/;"	m	struct:mp3_param	access:public
+channels	mpaudec.h	/^    int channels;$/;"	m	struct:MPAuDecContext	access:public
+check_header	mpaudec.c	/^static int check_header(uint32_t header)$/;"	f	file:	signature:(uint32_t header)
+ci_table	mpaudectab.h	/^static const float ci_table[8] = {$/;"	v
+close_alsa	alsa.c	/^int close_alsa(snd_pcm_t *pcm)$/;"	f	signature:(snd_pcm_t *pcm)
+close_alsa	alsa.h	/^int close_alsa(struct audio_output *out);$/;"	p	signature:(struct audio_output *out)
+close_audio	audio_output.c	/^int close_audio(struct audio_output *out) {$/;"	f	signature:(struct audio_output *out)
+close_audio	audio_output.h	/^int close_audio(struct audio_output *out);$/;"	p	signature:(struct audio_output *out)
+coded_frame_size	mpaudec.h	/^    int coded_frame_size;$/;"	m	struct:MPAuDecContext	access:public
+codes	mpaudec.c	/^    const uint16_t *codes;$/;"	m	struct:HuffTable	file:	access:public
+color	icon.h	/^struct color {$/;"	s
+color::alpha	icon.h	/^	u8 alpha;$/;"	m	struct:color	access:public
+color::blue	icon.h	/^	u8 blue;$/;"	m	struct:color	access:public
+color::green	icon.h	/^	u8 green;$/;"	m	struct:color	access:public
+color::red	icon.h	/^	u8 red;$/;"	m	struct:color	access:public
+color_t	window.h	/^} color_t;$/;"	t	typeref:struct:__anon4
+compute_antialias	mpaudec.c	/^static void compute_antialias(MPADecodeContext *s,$/;"	f	file:	signature:(MPADecodeContext *s, GranuleDef *g)
+compute_imdct	mpaudec.c	/^static void compute_imdct(MPADecodeContext *s,$/;"	f	file:	signature:(MPADecodeContext *s, GranuleDef *g, int32_t *sb_samples, int32_t *mdct_buf)
+compute_stereo	mpaudec.c	/^static void compute_stereo(MPADecodeContext *s,$/;"	f	file:	signature:(MPADecodeContext *s, GranuleDef *g0, GranuleDef *g1)
+count1table_select	mpaudec.c	/^    uint8_t count1table_select;$/;"	m	struct:GranuleDef	file:	access:public
+csa_table	mpaudec.c	/^static int32_t csa_table[8][2];$/;"	v	file:
+cur	window.h	/^	size_t cur;$/;"	m	struct:progressbar_win	access:public
+data	fifo.h	/^	u8 data[FIFO_LEN];$/;"	m	struct:fifo	access:public
+dct32	mpaudec.c	/^static void dct32(int32_t *out, int32_t *tab)$/;"	f	file:	signature:(int32_t *out, int32_t *tab)
+dec	mp3.h	/^	void *dec;$/;"	m	struct:decode	access:public
+decode	mp3.c	/^int decode(struct decode *dec, u8 *raw_buff, int *raw_size, u8 *mp3_buff, size_t mp3_size)$/;"	f	signature:(struct decode *dec, u8 *raw_buff, int *raw_size, u8 *mp3_buff, size_t mp3_size)
+decode	mp3.h	/^int decode(struct decode *dec, u8 *raw_buff, int *raw_size, u8 *mp3_buff, size_t mp3_size);$/;"	p	signature:(struct decode *dec, u8 *raw_buff, int *raw_size, u8 *mp3_buff, size_t mp3_size)
+decode	mp3.h	/^struct decode {$/;"	s
+decode::dec	mp3.h	/^	void *dec;$/;"	m	struct:decode	access:public
+decode::type	mp3.h	/^	decode_type_t type;$/;"	m	struct:decode	access:public
+decode_close	mp3.c	/^int decode_close(struct decode *dec)$/;"	f	signature:(struct decode *dec)
+decode_close	mp3.h	/^int decode_close(struct decode *dec);$/;"	p	signature:(struct decode *dec)
+decode_header	mpaudec.c	/^static int decode_header(MPADecodeContext *s, uint32_t header)$/;"	f	file:	signature:(MPADecodeContext *s, uint32_t header)
+decode_open	mp3.c	/^struct decode *decode_open(decode_type_t type)$/;"	f	signature:(decode_type_t type)
+decode_open	mp3.h	/^struct decode *decode_open(decode_type_t type);$/;"	p	signature:(decode_type_t type)
+decode_type_t	mp3.h	/^} decode_type_t;$/;"	t	typeref:enum:__anon3
+dev_4_3_coefs	mpaudec.c	/^static int dev_4_3_coefs[DEV_ORDER];$/;"	v	file:
+download	http.c	/^void *download(void *arg)$/;"	f	signature:(void *arg)
+download_arg	http.h	/^struct download_arg {$/;"	s
+download_arg::buff	http.h	/^	unsigned char *buff;$/;"	m	struct:download_arg	access:public
+download_arg::file	http.h	/^	struct sound_file_info *file;$/;"	m	struct:download_arg	typeref:struct:download_arg::sound_file_info	access:public
+download_arg::ip	http.h	/^	char *ip;$/;"	m	struct:download_arg	access:public
+download_arg::offset	http.h	/^	size_t offset;$/;"	m	struct:download_arg	access:public
+download_arg::ret_size	http.h	/^	size_t ret_size;$/;"	m	struct:download_arg	access:public
+download_arg::size	http.h	/^	size_t size;$/;"	m	struct:download_arg	access:public
+draw_line	window.c	/^void draw_line(int y, color_t color)$/;"	f	signature:(int y, color_t color)
+draw_pixel	window.c	/^static void draw_pixel(int x, int y, color_t color)$/;"	f	file:	signature:(int x, int y, color_t color)
+error_protection	mpaudec.c	/^    int error_protection;$/;"	m	struct:MPADecodeContext	file:	access:public
+exponents_from_scale_factors	mpaudec.c	/^static void exponents_from_scale_factors(MPADecodeContext *s,$/;"	f	file:	signature:(MPADecodeContext *s, GranuleDef *g, int16_t *exponents)
+fd	sound_file.h	/^	int fd;$/;"	m	struct:sound_file_info	access:public
+fd	window.h	/^	int fd;$/;"	m	struct:window_info	access:public
+fifo	fifo.h	/^struct fifo {$/;"	s
+fifo	witplay.c	/^	struct fifo *fifo;$/;"	m	struct:load_thread_arg	typeref:struct:load_thread_arg::fifo	file:	access:public
+fifo::data	fifo.h	/^	u8 data[FIFO_LEN];$/;"	m	struct:fifo	access:public
+fifo::mutex	fifo.h	/^	pthread_mutex_t mutex;$/;"	m	struct:fifo	access:public
+fifo::read	fifo.h	/^	size_t read;$/;"	m	struct:fifo	access:public
+fifo::size	fifo.h	/^	size_t size;$/;"	m	struct:fifo	access:public
+fifo::used	fifo.h	/^	size_t used;$/;"	m	struct:fifo	access:public
+fifo::write	fifo.h	/^	size_t write;$/;"	m	struct:fifo	access:public
+fifo_close	fifo.c	/^int fifo_close(struct fifo *fifo)$/;"	f	signature:(struct fifo *fifo)
+fifo_close	fifo.h	/^int fifo_close(struct fifo *fifo);$/;"	p	signature:(struct fifo *fifo)
+fifo_open	fifo.c	/^struct fifo *fifo_open()$/;"	f
+fifo_open	fifo.h	/^struct fifo *fifo_open();$/;"	p	signature:()
+fifo_read	fifo.c	/^int fifo_read(struct fifo *fifo, u8 *buff, size_t size)$/;"	f	signature:(struct fifo *fifo, u8 *buff, size_t size)
+fifo_read	fifo.h	/^int fifo_read(struct fifo *fifo, u8 *buff, size_t size);$/;"	p	signature:(struct fifo *fifo, u8 *buff, size_t size)
+fifo_write	fifo.c	/^int fifo_write(struct fifo *fifo, u8 *buff, size_t size)$/;"	f	signature:(struct fifo *fifo, u8 *buff, size_t size)
+fifo_write	fifo.h	/^int fifo_write(struct fifo *fifo, u8 *buff, size_t size);$/;"	p	signature:(struct fifo *fifo, u8 *buff, size_t size)
+file	http.h	/^	struct sound_file_info *file;$/;"	m	struct:download_arg	typeref:struct:download_arg::sound_file_info	access:public
+file	witplay.c	/^	struct sound_file_info *file;$/;"	m	struct:load_thread_arg	typeref:struct:load_thread_arg::sound_file_info	file:	access:public
+fix	window.h	/^	struct fb_fix_screeninfo fix;$/;"	m	struct:window_info	typeref:struct:window_info::fb_fix_screeninfo	access:public
+flush_window	window.c	/^int flush_window(struct timeval tv, void *raw, int size)$/;"	f	signature:(struct timeval tv, void *raw, int size)
+flush_window	window.h	/^int flush_window(struct timeval tv, void *raw, int size);$/;"	p	signature:(struct timeval tv, void *raw, int size)
+font_color	window.h	/^	color_t font_color;$/;"	m	struct:text_win	access:public
+font_size	window.h	/^	int font_size;$/;"	m	struct:text_win	access:public
+frame_count	mpaudec.c	/^    int frame_count;$/;"	m	struct:MPADecodeContext	file:	access:public
+frame_size	icon.h	/^	int frame_size;$/;"	m	struct:screen	access:public
+frame_size	mpaudec.c	/^    int frame_size;$/;"	m	struct:MPADecodeContext	file:	access:public
+frame_size	mpaudec.h	/^    int frame_size;$/;"	m	struct:MPAuDecContext	access:public
+free_format_frame_size	mpaudec.c	/^    int free_format_frame_size; \/* frame size in case of free format$/;"	m	struct:MPADecodeContext	file:	access:public
+free_pares_mp3_tag	mp3.c	/^int free_pares_mp3_tag(void *lrc, void *icon)$/;"	f	signature:(void *lrc, void *icon)
+free_pares_mp3_tag	mp3.h	/^int free_pares_mp3_tag(void *lrc, void *icon);$/;"	p	signature:(void *lrc, void *icon)
+free_vlc	bits.c	/^void free_vlc(VLC *vlc)$/;"	f	signature:(VLC *vlc)
+free_vlc	internal.h	/^void free_vlc(VLC *vlc);$/;"	p	signature:(VLC *vlc)
+g	window.h	/^	char g;$/;"	m	struct:__anon4	access:public
+gb	mpaudec.c	/^    GetBitContext gb;$/;"	m	struct:MPADecodeContext	file:	access:public
+get_bits	bits.c	/^unsigned int get_bits(GetBitContext *s, int n)$/;"	f	signature:(GetBitContext *s, int n)
+get_bits	internal.h	/^unsigned int get_bits(GetBitContext *s, int n);$/;"	p	signature:(GetBitContext *s, int n)
+get_bits_count	bits.c	/^int get_bits_count(const GetBitContext *s)$/;"	f	signature:(const GetBitContext *s)
+get_bits_count	internal.h	/^int get_bits_count(const GetBitContext *s);$/;"	p	signature:(const GetBitContext *s)
+get_bitsz	mpaudec.c	/^static int get_bitsz(GetBitContext *s, int n)$/;"	f	file:	signature:(GetBitContext *s, int n)
+get_fix	window.c	/^struct fb_fix_screeninfo *get_fix()$/;"	f
+get_fix	window.h	/^struct fb_fix_screeninfo *get_fix();$/;"	p	signature:()
+get_http_head	http.c	/^int get_http_head(int fd, char *buff, size_t buff_size)$/;"	f	signature:(int fd, char *buff, size_t buff_size)
+get_mp3_param	mp3.c	/^int get_mp3_param(struct decode *dec, u8 *buff, size_t size, struct mp3_param *param)$/;"	f	signature:(struct decode *dec, u8 *buff, size_t size, struct mp3_param *param)
+get_mp3_param	mp3.h	/^int get_mp3_param(struct decode *dec, u8 *buff, size_t size, struct mp3_param *param);$/;"	p	signature:(struct decode *dec, u8 *buff, size_t size, struct mp3_param *param)
+get_var	window.c	/^struct fb_var_screeninfo *get_var()$/;"	f
+get_var	window.h	/^struct fb_var_screeninfo *get_var();$/;"	p	signature:()
+get_vlc	bits.c	/^int get_vlc(GetBitContext *s, const VLC *vlc)$/;"	f	signature:(GetBitContext *s, const VLC *vlc)
+get_vlc	internal.h	/^int get_vlc(GetBitContext *s, const VLC *vlc);$/;"	p	signature:(GetBitContext *s, const VLC *vlc)
+get_vm	window.c	/^void *get_vm()$/;"	f
+get_vm	window.h	/^void *get_vm();$/;"	p	signature:()
+global_gain	mpaudec.c	/^    int global_gain;$/;"	m	struct:GranuleDef	file:	access:public
+green	icon.h	/^	u8 green;$/;"	m	struct:color	access:public
+gstreamer_play	gstreamer.c	/^int gstreamer_play(const char *path)$/;"	f	signature:(const char *path)
+gstreamer_play	gstreamer.h	/^int gstreamer_play(const char *path);$/;"	p	signature:(const char *path)
+h	window.h	/^	int w, h;$/;"	m	struct:window	access:public
+head_parse	lrc.c	/^static int head_parse(const u8 *buff, int *offset)$/;"	f	file:	signature:(const u8 *buff, int *offset)
+height	icon.h	/^	int height;$/;"	m	struct:screen	access:public
+height	window.h	/^	int height;$/;"	m	struct:window_info	access:public
+http_file_close	http.c	/^int http_file_close(struct sound_file_info *file)$/;"	f	signature:(struct sound_file_info *file)
+http_file_close	http.h	/^int http_file_close(struct sound_file_info *file);$/;"	p	signature:(struct sound_file_info *file)
+http_file_load	http.c	/^int http_file_load(struct sound_file_info *file, u8 *buff, size_t size)$/;"	f	signature:(struct sound_file_info *file, u8 *buff, size_t size)
+http_file_load	http.h	/^int http_file_load(struct sound_file_info *file, u8 *buff, size_t size);$/;"	p	signature:(struct sound_file_info *file, u8 *buff, size_t size)
+http_file_open	http.c	/^struct sound_file_info *http_file_open(const char *URL)$/;"	f	signature:(const char *URL)
+http_file_open	http.h	/^struct sound_file_info *http_file_open(const char *URL);$/;"	p	signature:(const char *URL)
+huff_code_table	mpaudec.c	/^static uint8_t *huff_code_table[16];$/;"	v	file:
+huff_quad_vlc	mpaudec.c	/^static VLC huff_quad_vlc[2];$/;"	v	file:
+huff_vlc	mpaudec.c	/^static VLC huff_vlc[16];$/;"	v	file:
+huffman_decode	mpaudec.c	/^static int huffman_decode(MPADecodeContext *s, GranuleDef *g,$/;"	f	file:	signature:(MPADecodeContext *s, GranuleDef *g, int16_t *exponents, int end_pos)
+icon	window.h	/^	u8 *icon;$/;"	m	struct:window_info	access:public
+icon_size	window.h	/^	size_t icon_size;$/;"	m	struct:window_info	access:public
+icon_win	window.h	/^	struct window icon_win;$/;"	m	struct:window_info	typeref:struct:window_info::window	access:public
+icos36	mpaudec.c	/^static const int icos36[9] = {$/;"	v	file:
+icos72	mpaudec.c	/^static const int icos72[18] = {$/;"	v	file:
+imdct12	mpaudec.c	/^static void imdct12(int *out, int *in)$/;"	f	file:	signature:(int *out, int *in)
+imdct36	mpaudec.c	/^static void imdct36(int *out, int *in)$/;"	f	file:	signature:(int *out, int *in)
+inbuf	mpaudec.c	/^    uint8_t *inbuf_ptr, *inbuf;$/;"	m	struct:MPADecodeContext	file:	access:public
+inbuf1	mpaudec.c	/^    uint8_t inbuf1[2][MPA_MAX_CODED_FRAME_SIZE + BACKSTEP_SIZE];        \/* input buffer *\/$/;"	m	struct:MPADecodeContext	file:	access:public
+inbuf_index	mpaudec.c	/^    int inbuf_index;$/;"	m	struct:MPADecodeContext	file:	access:public
+inbuf_ptr	mpaudec.c	/^    uint8_t *inbuf_ptr, *inbuf;$/;"	m	struct:MPADecodeContext	file:	access:public
+index	internal.h	/^    int index;$/;"	m	struct:GetBitContext	access:public
+init_get_bits	bits.c	/^void init_get_bits(GetBitContext *s,$/;"	f	signature:(GetBitContext *s, const uint8_t *buffer, int bit_size)
+init_get_bits	internal.h	/^void init_get_bits(GetBitContext *s,$/;"	p	signature:(GetBitContext *s, const uint8_t *buffer, int buffer_size)
+init_vlc	bits.c	/^int init_vlc(VLC *vlc, int nb_bits, int nb_codes,$/;"	f	signature:(VLC *vlc, int nb_bits, int nb_codes, const void *bits, int bits_wrap, int bits_size, const void *codes, int codes_wrap, int codes_size)
+init_vlc	internal.h	/^int init_vlc(VLC *vlc, int nb_bits, int nb_codes,$/;"	p	signature:(VLC *vlc, int nb_bits, int nb_codes, const void *bits, int bits_wrap, int bits_size, const void *codes, int codes_wrap, int codes_size)
+int16_t	internal.h	/^typedef signed short int16_t;$/;"	t
+int32_t	internal.h	/^typedef signed int int32_t;$/;"	t
+int64_t	internal.h	/^typedef signed __int64 int64_t;$/;"	t
+int8_t	internal.h	/^typedef signed char int8_t;$/;"	t
+int_pow	mpaudec.c	/^static int int_pow(int i, int *exp_ptr)$/;"	f	file:	signature:(int i, int *exp_ptr)
+int_pow_init	mpaudec.c	/^static void int_pow_init(void)$/;"	f	file:	signature:(void)
+ip	http.h	/^	char *ip;$/;"	m	struct:download_arg	access:public
+is_table	mpaudec.c	/^static int32_t is_table[2][16];$/;"	v	file:
+is_table_lsf	mpaudec.c	/^static int32_t is_table_lsf[2][2][16];$/;"	v	file:
+l1_unscale	mpaudec.c	/^static int l1_unscale(int n, int mant, int scale_factor)$/;"	f	file:	signature:(int n, int mant, int scale_factor)
+l2_select_table	mpaudec.c	/^static int l2_select_table(int bitrate, int nb_channels, int freq, int lsf)$/;"	f	file:	signature:(int bitrate, int nb_channels, int freq, int lsf)
+l2_unscale_group	mpaudec.c	/^static int l2_unscale_group(int steps, int mant, int scale_factor)$/;"	f	file:	signature:(int steps, int mant, int scale_factor)
+l3_unscale	mpaudec.c	/^static int l3_unscale(int value, int exponent)$/;"	f	file:	signature:(int value, int exponent)
+layer	mpaudec.c	/^    int layer;$/;"	m	struct:MPADecodeContext	file:	access:public
+layer	mpaudec.h	/^    int layer;$/;"	m	struct:MPAuDecContext	access:public
+load_mp3_data_to_fifo	witplay.c	/^static void *load_mp3_data_to_fifo(void *arg)$/;"	f	file:	signature:(void *arg)
+load_thread_arg	witplay.c	/^struct load_thread_arg {$/;"	s	file:
+load_thread_arg::fifo	witplay.c	/^	struct fifo *fifo;$/;"	m	struct:load_thread_arg	typeref:struct:load_thread_arg::fifo	file:	access:public
+load_thread_arg::file	witplay.c	/^	struct sound_file_info *file;$/;"	m	struct:load_thread_arg	typeref:struct:load_thread_arg::sound_file_info	file:	access:public
+local_file_close	local.c	/^int local_file_close(struct sound_file_info *file)$/;"	f	signature:(struct sound_file_info *file)
+local_file_close	local.h	/^int local_file_close(struct sound_file_info *file);$/;"	p	signature:(struct sound_file_info *file)
+local_file_load	local.c	/^int local_file_load(struct sound_file_info *file, u8 *buff, size_t size)$/;"	f	signature:(struct sound_file_info *file, u8 *buff, size_t size)
+local_file_load	local.h	/^int local_file_load(struct sound_file_info *file, u8 *buff, size_t size);$/;"	p	signature:(struct sound_file_info *file, u8 *buff, size_t size)
+local_file_open	local.c	/^struct sound_file_info *local_file_open(const char *URL)$/;"	f	signature:(const char *URL)
+local_file_open	local.h	/^struct sound_file_info *local_file_open(const char *URL);$/;"	p	signature:(const char *URL)
+long_end	mpaudec.c	/^    int short_start, long_end; \/* long\/short band indexes *\/$/;"	m	struct:GranuleDef	file:	access:public
+lrc	window.h	/^	u8 *lrc;$/;"	m	struct:window_info	access:public
+lrc_size	window.h	/^	size_t lrc_size;$/;"	m	struct:window_info	access:public
+lsf	mpaudec.c	/^    int lsf;$/;"	m	struct:MPADecodeContext	file:	access:public
+lsf_nsf_table	mpaudectab.h	/^static const uint8_t lsf_nsf_table[6][3][4] = {$/;"	v
+lsf_sf_expand	mpaudec.c	/^static void lsf_sf_expand(int *slen,$/;"	f	file:	signature:(int *slen, int sf, int n1, int n2, int n3)
+main	witplay.c	/^int main(int argc, char *argv[])$/;"	f	signature:(int argc, char *argv[])
+max	window.h	/^	size_t max;$/;"	m	struct:progressbar_win	access:public
+mdct_buf	mpaudec.c	/^    int32_t mdct_buf[MPA_MAX_CHANNELS][SBLIMIT * 18]; \/* previous samples, for layer 3 MDCT *\/$/;"	m	struct:MPADecodeContext	file:	access:public
+mdct_win	mpaudec.c	/^static int32_t mdct_win[8][36];$/;"	v	file:
+memmem	icon.h	/^void *memmem(const void *, size_t, const void *, size_t);$/;"	p	signature:(const void *, size_t, const void *, size_t)
+min	window.h	/^	size_t min;$/;"	m	struct:progressbar_win	access:public
+mode	mpaudec.c	/^    int mode;$/;"	m	struct:MPADecodeContext	file:	access:public
+mode_ext	mpaudec.c	/^    int mode_ext;$/;"	m	struct:MPADecodeContext	file:	access:public
+mp3_data_end	sound_file.h	/^	size_t mp3_data_end;$/;"	m	struct:sound_file_info	access:public
+mp3_data_start	sound_file.h	/^	size_t mp3_data_start;$/;"	m	struct:sound_file_info	access:public
+mp3_param	mp3.h	/^struct mp3_param {$/;"	s
+mp3_param::bit_rate	mp3.h	/^	int bit_rate;$/;"	m	struct:mp3_param	access:public
+mp3_param::bits_per_sample	mp3.h	/^	int bits_per_sample;$/;"	m	struct:mp3_param	access:public
+mp3_param::channels	mp3.h	/^	int channels;$/;"	m	struct:mp3_param	access:public
+mp3_param::rate	mp3.h	/^	int rate;$/;"	m	struct:mp3_param	access:public
+mp_decode_frame	mpaudec.c	/^static int mp_decode_frame(MPADecodeContext *s,$/;"	f	file:	signature:(MPADecodeContext *s, int16_t *samples)
+mp_decode_layer1	mpaudec.c	/^static int mp_decode_layer1(MPADecodeContext *s)$/;"	f	file:	signature:(MPADecodeContext *s)
+mp_decode_layer2	mpaudec.c	/^static int mp_decode_layer2(MPADecodeContext *s)$/;"	f	file:	signature:(MPADecodeContext *s)
+mp_decode_layer3	mpaudec.c	/^static int mp_decode_layer3(MPADecodeContext *s)$/;"	f	file:	signature:(MPADecodeContext *s)
+mpa_bitrate_tab	mpaudectab.h	/^static const uint16_t mpa_bitrate_tab[2][3][15] = {$/;"	v
+mpa_enwindow	mpaudectab.h	/^static const int32_t mpa_enwindow[257] = {$/;"	v
+mpa_freq_tab	mpaudectab.h	/^static const uint16_t mpa_freq_tab[3] = { 44100, 48000, 32000 };$/;"	v
+mpa_huff_data	mpaudectab.h	/^static const uint8_t mpa_huff_data[32][2] = {$/;"	v
+mpa_huff_tables	mpaudectab.h	/^static const HuffTable mpa_huff_tables[16] = {$/;"	v
+mpa_huffbits_1	mpaudectab.h	/^static const uint8_t mpa_huffbits_1[4] = {$/;"	v
+mpa_huffbits_10	mpaudectab.h	/^static const uint8_t mpa_huffbits_10[64] = {$/;"	v
+mpa_huffbits_11	mpaudectab.h	/^static const uint8_t mpa_huffbits_11[64] = {$/;"	v
+mpa_huffbits_12	mpaudectab.h	/^static const uint8_t mpa_huffbits_12[64] = {$/;"	v
+mpa_huffbits_13	mpaudectab.h	/^static const uint8_t mpa_huffbits_13[256] = {$/;"	v
+mpa_huffbits_15	mpaudectab.h	/^static const uint8_t mpa_huffbits_15[256] = {$/;"	v
+mpa_huffbits_16	mpaudectab.h	/^static const uint8_t mpa_huffbits_16[256] = {$/;"	v
+mpa_huffbits_2	mpaudectab.h	/^static const uint8_t mpa_huffbits_2[9] = {$/;"	v
+mpa_huffbits_24	mpaudectab.h	/^static const uint8_t mpa_huffbits_24[256] = {$/;"	v
+mpa_huffbits_3	mpaudectab.h	/^static const uint8_t mpa_huffbits_3[9] = {$/;"	v
+mpa_huffbits_5	mpaudectab.h	/^static const uint8_t mpa_huffbits_5[16] = {$/;"	v
+mpa_huffbits_6	mpaudectab.h	/^static const uint8_t mpa_huffbits_6[16] = {$/;"	v
+mpa_huffbits_7	mpaudectab.h	/^static const uint8_t mpa_huffbits_7[36] = {$/;"	v
+mpa_huffbits_8	mpaudectab.h	/^static const uint8_t mpa_huffbits_8[36] = {$/;"	v
+mpa_huffbits_9	mpaudectab.h	/^static const uint8_t mpa_huffbits_9[36] = {$/;"	v
+mpa_huffcodes_1	mpaudectab.h	/^static const uint16_t mpa_huffcodes_1[4] = {$/;"	v
+mpa_huffcodes_10	mpaudectab.h	/^static const uint16_t mpa_huffcodes_10[64] = {$/;"	v
+mpa_huffcodes_11	mpaudectab.h	/^static const uint16_t mpa_huffcodes_11[64] = {$/;"	v
+mpa_huffcodes_12	mpaudectab.h	/^static const uint16_t mpa_huffcodes_12[64] = {$/;"	v
+mpa_huffcodes_13	mpaudectab.h	/^static const uint16_t mpa_huffcodes_13[256] = {$/;"	v
+mpa_huffcodes_15	mpaudectab.h	/^static const uint16_t mpa_huffcodes_15[256] = {$/;"	v
+mpa_huffcodes_16	mpaudectab.h	/^static const uint16_t mpa_huffcodes_16[256] = {$/;"	v
+mpa_huffcodes_2	mpaudectab.h	/^static const uint16_t mpa_huffcodes_2[9] = {$/;"	v
+mpa_huffcodes_24	mpaudectab.h	/^static const uint16_t mpa_huffcodes_24[256] = {$/;"	v
+mpa_huffcodes_3	mpaudectab.h	/^static const uint16_t mpa_huffcodes_3[9] = {$/;"	v
+mpa_huffcodes_5	mpaudectab.h	/^static const uint16_t mpa_huffcodes_5[16] = {$/;"	v
+mpa_huffcodes_6	mpaudectab.h	/^static const uint16_t mpa_huffcodes_6[16] = {$/;"	v
+mpa_huffcodes_7	mpaudectab.h	/^static const uint16_t mpa_huffcodes_7[36] = {$/;"	v
+mpa_huffcodes_8	mpaudectab.h	/^static const uint16_t mpa_huffcodes_8[36] = {$/;"	v
+mpa_huffcodes_9	mpaudectab.h	/^static const uint16_t mpa_huffcodes_9[36] = {$/;"	v
+mpa_pretab	mpaudectab.h	/^static const uint8_t mpa_pretab[2][22] = {$/;"	v
+mpa_quad_bits	mpaudectab.h	/^static uint8_t mpa_quad_bits[2][16] = {$/;"	v
+mpa_quad_codes	mpaudectab.h	/^static uint8_t mpa_quad_codes[2][16] = {$/;"	v
+mpaudec_clear	mpaudec.c	/^void mpaudec_clear(MPAuDecContext *mpctx)$/;"	f	signature:(MPAuDecContext *mpctx)
+mpaudec_clear	mpaudec.h	/^void mpaudec_clear(MPAuDecContext *mpctx);$/;"	p	signature:(MPAuDecContext *mpctx)
+mpaudec_close	mpaudec.c	/^int mpaudec_close(MPAuDecContext *mpctx)$/;"	f	signature:(MPAuDecContext *mpctx)
+mpaudec_close	mpaudec.h	/^int mpaudec_close(MPAuDecContext *mpctx);$/;"	p	signature:(MPAuDecContext *mpctx)
+mpaudec_decode_frame	mpaudec.c	/^int mpaudec_decode_frame(MPAuDecContext * mpctx,$/;"	f	signature:(MPAuDecContext * mpctx, void *data, int *data_size, const uint8_t * buf, int buf_size)
+mpaudec_decode_frame	mpaudec.h	/^int mpaudec_decode_frame(MPAuDecContext * mpctx,$/;"	p	signature:(MPAuDecContext * mpctx, void *data, int *data_size, const unsigned char * buf, int buf_size)
+mpaudec_init	mpaudec.c	/^int mpaudec_init(MPAuDecContext * mpctx)$/;"	f	signature:(MPAuDecContext * mpctx)
+mpaudec_init	mpaudec.h	/^int mpaudec_init(MPAuDecContext *mpctx);$/;"	p	signature:(MPAuDecContext *mpctx)
+mpaudec_open	mpaudec.c	/^MPAuDecContext *mpaudec_open()$/;"	f
+mpaudec_open	mpaudec.h	/^MPAuDecContext *mpaudec_open();$/;"	p	signature:()
+mutex	fifo.h	/^	pthread_mutex_t mutex;$/;"	m	struct:fifo	access:public
+nb_channels	mpaudec.c	/^    int nb_channels;$/;"	m	struct:MPADecodeContext	file:	access:public
+next	list.h	/^	struct _ListNode *next;$/;"	m	struct:_ListNode	typeref:struct:_ListNode::_ListNode	access:public
+offset	http.h	/^	size_t offset;$/;"	m	struct:download_arg	access:public
+offset	sound_file.h	/^	size_t offset;$/;"	m	struct:sound_file_info	access:public
+old_frame_size	mpaudec.c	/^    int old_frame_size;$/;"	m	struct:MPADecodeContext	file:	access:public
+open_alsa	alsa.c	/^void *open_alsa(struct mp3_param *param)$/;"	f	signature:(struct mp3_param *param)
+open_alsa	alsa.h	/^void *open_alsa(struct mp3_param *param);$/;"	p	signature:(struct mp3_param *param)
+open_audio	audio_output.c	/^struct audio_output *open_audio(audio_dev_t type, struct mp3_param *param) {$/;"	f	signature:(audio_dev_t type, struct mp3_param *param)
+open_audio	audio_output.h	/^struct audio_output *open_audio(audio_dev_t type, struct mp3_param *param);$/;"	p	signature:(audio_dev_t type, struct mp3_param *param)
+outdev	audio_output.h	/^	void *outdev;$/;"	m	struct:audio_output	access:public
+param	window.h	/^	struct mp3_param *param;$/;"	m	struct:window_info	typeref:struct:window_info::mp3_param	access:public
+parse_ID3v1_tag	mp3.c	/^static int parse_ID3v1_tag(u8 *buff, struct sound_file_info *ifno, u8 **lrc, size_t *lrc_size, u8 **icon,size_t *icon_size)$/;"	f	file:	signature:(u8 *buff, struct sound_file_info *ifno, u8 **lrc, size_t *lrc_size, u8 **icon,size_t *icon_size)
+parse_ID3v2_2_tag	mp3.c	/^static int parse_ID3v2_2_tag(u8 *buff, size_t size, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)$/;"	f	file:	signature:(u8 *buff, size_t size, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)
+parse_ID3v2_3_tag	mp3.c	/^static int parse_ID3v2_3_tag(u8 *buff, size_t size, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)$/;"	f	file:	signature:(u8 *buff, size_t size, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)
+parse_ID3v2_tag	mp3.c	/^static int parse_ID3v2_tag(u8 *buff, size_t size, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)$/;"	f	file:	signature:(u8 *buff, size_t size, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)
+parse_mp3_tag	mp3.c	/^int parse_mp3_tag(struct sound_file_info *ifno, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)$/;"	f	signature:(struct sound_file_info *ifno, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)
+parse_mp3_tag	mp3.h	/^int parse_mp3_tag(struct sound_file_info *, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size);$/;"	p	signature:(struct sound_file_info *, u8 **lrc, size_t *lrc_size, u8 **icon, size_t *icon_size)
+parse_only	mpaudec.h	/^    int parse_only;$/;"	m	struct:MPAuDecContext	access:public
+part2_3_length	mpaudec.c	/^    int part2_3_length;$/;"	m	struct:GranuleDef	file:	access:public
+play_alsa_frames	alsa.c	/^int play_alsa_frames(snd_pcm_t *pcm, u8 *raw_buff, int frames)$/;"	f	signature:(snd_pcm_t *pcm, u8 *raw_buff, int frames)
+play_alsa_frames	alsa.h	/^int play_alsa_frames(struct audio_output *out, u8 *raw_buff, int frames);$/;"	p	signature:(struct audio_output *out, u8 *raw_buff, int frames)
+play_frames	audio_output.c	/^int play_frames(struct audio_output *out, u8 *raw_buff, size_t size, struct mp3_param *param)$/;"	f	signature:(struct audio_output *out, u8 *raw_buff, size_t size, struct mp3_param *param)
+play_frames	audio_output.h	/^int play_frames(struct audio_output *out, u8 *raw_buff, size_t size, struct mp3_param *param);$/;"	p	signature:(struct audio_output *out, u8 *raw_buff, size_t size, struct mp3_param *param)
+pow_mult3	mpaudec.c	/^static int pow_mult3[3] = {$/;"	v	file:
+preflag	mpaudec.c	/^    int preflag;$/;"	m	struct:GranuleDef	file:	access:public
+priv_data	mpaudec.h	/^    void *priv_data;$/;"	m	struct:MPAuDecContext	access:public
+progressbar	window.h	/^	struct progressbar_win progressbar;$/;"	m	struct:window_info	typeref:struct:window_info::progressbar_win	access:public
+progressbar_win	window.h	/^struct progressbar_win {$/;"	s
+progressbar_win::back_color	window.h	/^	color_t back_color;$/;"	m	struct:progressbar_win	access:public
+progressbar_win::bar_color	window.h	/^	color_t bar_color;$/;"	m	struct:progressbar_win	access:public
+progressbar_win::cur	window.h	/^	size_t cur;$/;"	m	struct:progressbar_win	access:public
+progressbar_win::max	window.h	/^	size_t max;$/;"	m	struct:progressbar_win	access:public
+progressbar_win::min	window.h	/^	size_t min;$/;"	m	struct:progressbar_win	access:public
+progressbar_win::win	window.h	/^	struct window win;$/;"	m	struct:progressbar_win	typeref:struct:progressbar_win::window	access:public
+quant_bits	mpaudectab.h	/^static const int quant_bits[17] = {$/;"	v
+quant_steps	mpaudectab.h	/^static const int quant_steps[17] = {$/;"	v
+r	window.h	/^	char r;$/;"	m	struct:__anon4	access:public
+rate	mp3.h	/^	int rate;$/;"	m	struct:mp3_param	access:public
+read	fifo.h	/^	size_t read;$/;"	m	struct:fifo	access:public
+read_timeouts	http.c	/^int read_timeouts(int fd, int sec)$/;"	f	signature:(int fd, int sec)
+red	icon.h	/^	u8 red;$/;"	m	struct:color	access:public
+region_size	mpaudec.c	/^    int region_size[3]; \/* number of huffman codes in each region *\/$/;"	m	struct:GranuleDef	file:	access:public
+reorder_block	mpaudec.c	/^static void reorder_block(MPADecodeContext *s, GranuleDef *g)$/;"	f	file:	signature:(MPADecodeContext *s, GranuleDef *g)
+ret_size	http.h	/^	size_t ret_size;$/;"	m	struct:download_arg	access:public
+round_sample	mpaudec.c	/^static int round_sample(int sum)$/;"	f	file:	signature:(int sum)
+round_sample	mpaudec.c	/^static int round_sample(int64_t sum)$/;"	f	file:	signature:(int64_t sum)
+sample_rate	mpaudec.c	/^    int sample_rate;$/;"	m	struct:MPADecodeContext	file:	access:public
+sample_rate	mpaudec.h	/^    int sample_rate;$/;"	m	struct:MPAuDecContext	access:public
+sample_rate_index	mpaudec.c	/^    int sample_rate_index; \/* between 0 and 8 *\/$/;"	m	struct:MPADecodeContext	file:	access:public
+sb_hybrid	mpaudec.c	/^    int32_t sb_hybrid[SBLIMIT * 18]; \/* 576 samples *\/$/;"	m	struct:GranuleDef	file:	access:public
+sb_samples	mpaudec.c	/^    int32_t sb_samples[MPA_MAX_CHANNELS][36][SBLIMIT];$/;"	m	struct:MPADecodeContext	file:	access:public
+sblimit_table	mpaudectab.h	/^static const int sblimit_table[5] = { 27 , 30 , 8, 12 , 30 };$/;"	v
+scale_factor_modshift	mpaudec.c	/^static uint16_t scale_factor_modshift[64];$/;"	v	file:
+scale_factor_mult	mpaudec.c	/^static int32_t scale_factor_mult[15][3];$/;"	v	file:
+scale_factor_mult2	mpaudec.c	/^static int32_t scale_factor_mult2[3][3] = {$/;"	v	file:
+scale_factor_mult3	mpaudec.c	/^static uint32_t scale_factor_mult3[4] = {$/;"	v	file:
+scale_factors	mpaudec.c	/^    uint8_t scale_factors[40];$/;"	m	struct:GranuleDef	file:	access:public
+scalefac_compress	mpaudec.c	/^    int scalefac_compress;$/;"	m	struct:GranuleDef	file:	access:public
+scalefac_scale	mpaudec.c	/^    uint8_t scalefac_scale;$/;"	m	struct:GranuleDef	file:	access:public
+scfsi	mpaudec.c	/^    uint8_t scfsi;$/;"	m	struct:GranuleDef	file:	access:public
+screen	icon.h	/^struct screen {$/;"	s
+screen::bpp	icon.h	/^	int bpp;$/;"	m	struct:screen	access:public
+screen::frame_size	icon.h	/^	int frame_size;$/;"	m	struct:screen	access:public
+screen::height	icon.h	/^	int height;$/;"	m	struct:screen	access:public
+screen::width	icon.h	/^	int width;$/;"	m	struct:screen	access:public
+seek_to_maindata	mpaudec.c	/^static void seek_to_maindata(MPADecodeContext *s, unsigned int backstep)$/;"	f	file:	signature:(MPADecodeContext *s, unsigned int backstep)
+set_color	window.c	/^static int set_color(u8 *pixel, int size, color_t color)$/;"	f	file:	signature:(u8 *pixel, int size, color_t color)
+short_start	mpaudec.c	/^    int short_start, long_end; \/* long\/short band indexes *\/$/;"	m	struct:GranuleDef	file:	access:public
+show_bits	bits.c	/^unsigned int show_bits(const GetBitContext *s, int n)$/;"	f	signature:(const GetBitContext *s, int n)
+show_bits	internal.h	/^unsigned int show_bits(const GetBitContext *s, int n);$/;"	p	signature:(const GetBitContext *s, int n)
+show_histogram	window.c	/^int show_histogram(struct window *win, int x, int percent)$/;"	f	signature:(struct window *win, int x, int percent)
+show_icon	window.c	/^int show_icon(struct window *win, u8 *icon, size_t size)$/;"	f	signature:(struct window *win, u8 *icon, size_t size)
+show_icon	window.h	/^int show_icon(struct window *win, u8 *icon, size_t size);$/;"	p	signature:(struct window *win, u8 *icon, size_t size)
+show_icon_coord	icon.c	/^int show_icon_coord(struct window *png_win, u8 *icon, size_t size)$/;"	f	signature:(struct window *png_win, u8 *icon, size_t size)
+show_icon_coord	icon.h	/^int show_icon_coord(struct window *, u8 *, size_t);$/;"	p	signature:(struct window *, u8 *, size_t)
+show_lyric	lrc.c	/^int show_lyric(const u8 *lrc_buff, size_t size, struct timeval *total, struct timeval *curr)$/;"	f	signature:(const u8 *lrc_buff, size_t size, struct timeval *total, struct timeval *curr)
+show_lyric	lrc.h	/^int show_lyric(const u8 *lrc_buff, size_t size, struct timeval *total, struct timeval *curr);$/;"	p	signature:(const u8 *lrc_buff, size_t size, struct timeval *total, struct timeval *curr)
+show_progressbar	window.c	/^int show_progressbar(struct progressbar_win *bar)$/;"	f	signature:(struct progressbar_win *bar)
+show_progressbar	window.h	/^int show_progressbar(struct progressbar_win *bar);$/;"	p	signature:(struct progressbar_win *bar)
+show_text	window.h	/^int show_text(struct text_win *text);$/;"	p	signature:(struct text_win *text)
+show_wave	window.c	/^int show_wave(struct window *win, u8 *raw_data, size_t size, struct mp3_param *param)$/;"	f	signature:(struct window *win, u8 *raw_data, size_t size, struct mp3_param *param)
+show_wave	window.h	/^int show_wave(struct window *win, u8 *raw_data, size_t size, struct mp3_param *param);$/;"	p	signature:(struct window *win, u8 *raw_data, size_t size, struct mp3_param *param)
+size	fifo.h	/^	size_t size;$/;"	m	struct:fifo	access:public
+size	http.h	/^	size_t size;$/;"	m	struct:download_arg	access:public
+size	sound_file.h	/^	size_t size;$/;"	m	struct:sound_file_info	access:public
+size_in_bits	internal.h	/^    int size_in_bits;$/;"	m	struct:GetBitContext	access:public
+skip_bits	bits.c	/^void skip_bits(GetBitContext *s, int n)$/;"	f	signature:(GetBitContext *s, int n)
+skip_bits	internal.h	/^void skip_bits(GetBitContext *s, int n);$/;"	p	signature:(GetBitContext *s, int n)
+slen_table	mpaudectab.h	/^static const uint8_t slen_table[2][16] = {$/;"	v
+sound_file_close	sound_file.c	/^int sound_file_close(struct sound_file_info *file)$/;"	f	signature:(struct sound_file_info *file)
+sound_file_close	sound_file.h	/^int sound_file_close(struct sound_file_info *file);$/;"	p	signature:(struct sound_file_info *file)
+sound_file_info	sound_file.h	/^struct sound_file_info {$/;"	s
+sound_file_info::fd	sound_file.h	/^	int fd;$/;"	m	struct:sound_file_info	access:public
+sound_file_info::mp3_data_end	sound_file.h	/^	size_t mp3_data_end;$/;"	m	struct:sound_file_info	access:public
+sound_file_info::mp3_data_start	sound_file.h	/^	size_t mp3_data_start;$/;"	m	struct:sound_file_info	access:public
+sound_file_info::offset	sound_file.h	/^	size_t offset;$/;"	m	struct:sound_file_info	access:public
+sound_file_info::size	sound_file.h	/^	size_t size;$/;"	m	struct:sound_file_info	access:public
+sound_file_info::type	sound_file.h	/^	SoundFileType type;$/;"	m	struct:sound_file_info	access:public
+sound_file_info::url	sound_file.h	/^	const char *url;$/;"	m	struct:sound_file_info	access:public
+sound_file_load	sound_file.c	/^int sound_file_load(struct sound_file_info *file, u8 *buff, size_t size)$/;"	f	signature:(struct sound_file_info *file, u8 *buff, size_t size)
+sound_file_load	sound_file.h	/^int sound_file_load(struct sound_file_info *file, u8 *buff, size_t size);$/;"	p	signature:(struct sound_file_info *file, u8 *buff, size_t size)
+sound_file_open	sound_file.c	/^struct sound_file_info *sound_file_open(const char *URL)$/;"	f	signature:(const char *URL)
+sound_file_open	sound_file.h	/^struct sound_file_info *sound_file_open(const char *URL);$/;"	p	signature:(const char *URL)
+sound_file_seek	sound_file.c	/^int sound_file_seek(struct sound_file_info *file, size_t offset)$/;"	f	signature:(struct sound_file_info *file, size_t offset)
+sound_file_seek	sound_file.h	/^int sound_file_seek(struct sound_file_info *file, size_t offset);$/;"	p	signature:(struct sound_file_info *file, size_t offset)
+str	list.h	/^	char str[STRLEN];$/;"	m	struct:_LrcData	access:public
+strData	list.h	/^typedef char *strData;$/;"	t
+subblock_gain	mpaudec.c	/^    int subblock_gain[3];$/;"	m	struct:GranuleDef	file:	access:public
+switch_point	mpaudec.c	/^    uint8_t switch_point;$/;"	m	struct:GranuleDef	file:	access:public
+synth_buf	mpaudec.c	/^    MPA_INT synth_buf[MPA_MAX_CHANNELS][512 * 2];$/;"	m	struct:MPADecodeContext	file:	access:public
+synth_buf_offset	mpaudec.c	/^    int synth_buf_offset[MPA_MAX_CHANNELS];$/;"	m	struct:MPADecodeContext	file:	access:public
+synth_filter	mpaudec.c	/^static void synth_filter(MPADecodeContext *s1,$/;"	f	file:	signature:(MPADecodeContext *s1, int ch, int16_t *samples, int incr, int32_t sb_samples[SBLIMIT])
+table	internal.h	/^    VLC_TYPE (*table)[2];$/;"	m	struct:VLC	access:public
+table_4_3_exp	mpaudec.c	/^static int8_t  table_4_3_exp[TABLE_4_3_SIZE];$/;"	v	file:
+table_4_3_value	mpaudec.c	/^static uint16_t table_4_3_value[TABLE_4_3_SIZE];$/;"	v	file:
+table_4_3_value	mpaudec.c	/^static uint32_t table_4_3_value[TABLE_4_3_SIZE];$/;"	v	file:
+table_allocated	internal.h	/^    int table_size, table_allocated;$/;"	m	struct:VLC	access:public
+table_select	mpaudec.c	/^    int table_select[3];$/;"	m	struct:GranuleDef	file:	access:public
+table_size	internal.h	/^    int table_size, table_allocated;$/;"	m	struct:VLC	access:public
+text	window.h	/^	char *text;$/;"	m	struct:text_win	access:public
+text	window.h	/^	struct text_win text;$/;"	m	struct:window_info	typeref:struct:window_info::text_win	access:public
+text_win	window.h	/^struct text_win {$/;"	s
+text_win::back_color	window.h	/^	color_t back_color;$/;"	m	struct:text_win	access:public
+text_win::font_color	window.h	/^	color_t font_color;$/;"	m	struct:text_win	access:public
+text_win::font_size	window.h	/^	int font_size;$/;"	m	struct:text_win	access:public
+text_win::text	window.h	/^	char *text;$/;"	m	struct:text_win	access:public
+text_win::win	window.h	/^	struct window win;$/;"	m	struct:text_win	typeref:struct:text_win::window	access:public
+time	list.h	/^	timeData time;$/;"	m	struct:_LrcData	access:public
+timeData	list.h	/^typedef float timeData;$/;"	t
+total	window.h	/^	struct timeval total;$/;"	m	struct:window_info	typeref:struct:window_info::timeval	access:public
+traverse_dir_match	mp3.c	/^static int traverse_dir_match(char path[], u8 *title, char *f_path)$/;"	f	file:	signature:(char path[], u8 *title, char *f_path)
+traverselist	list.h	/^void traverselist(Node *);$/;"	p	signature:(Node *)
+type	audio_output.h	/^	audio_dev_t type;$/;"	m	struct:audio_output	access:public
+type	mp3.h	/^	decode_type_t type;$/;"	m	struct:decode	access:public
+type	sound_file.h	/^	SoundFileType type;$/;"	m	struct:sound_file_info	access:public
+u16	types.h	/^typedef unsigned short u16;$/;"	t
+u32	types.h	/^typedef unsigned int u32;$/;"	t
+u8	types.h	/^typedef unsigned char u8;$/;"	t
+uint16_t	internal.h	/^typedef unsigned short uint16_t;$/;"	t
+uint32_t	internal.h	/^typedef unsigned int uint32_t;$/;"	t
+uint64_t	internal.h	/^typedef unsigned __int64 uint64_t;$/;"	t
+uint8_t	internal.h	/^typedef unsigned char uint8_t;$/;"	t
+url	sound_file.h	/^	const char *url;$/;"	m	struct:sound_file_info	access:public
+used	fifo.h	/^	size_t used;$/;"	m	struct:fifo	access:public
+var	window.h	/^	struct fb_var_screeninfo var;$/;"	m	struct:window_info	typeref:struct:window_info::fb_var_screeninfo	access:public
+vm	window.h	/^	void *vm;$/;"	m	struct:window_info	access:public
+w	window.h	/^	int w, h;$/;"	m	struct:window	access:public
+wave_win	window.h	/^	struct window wave_win;$/;"	m	struct:window_info	typeref:struct:window_info::window	access:public
+width	icon.h	/^	int width;$/;"	m	struct:screen	access:public
+width	window.h	/^	int width;$/;"	m	struct:window_info	access:public
+win	window.h	/^	struct window win;$/;"	m	struct:progressbar_win	typeref:struct:progressbar_win::window	access:public
+win	window.h	/^	struct window win;$/;"	m	struct:text_win	typeref:struct:text_win::window	access:public
+window	mpaudec.c	/^static MPA_INT window[512];$/;"	v	file:
+window	window.h	/^struct window {$/;"	s
+window::h	window.h	/^	int w, h;$/;"	m	struct:window	access:public
+window::w	window.h	/^	int w, h;$/;"	m	struct:window	access:public
+window::x	window.h	/^	int x, y;$/;"	m	struct:window	access:public
+window::y	window.h	/^	int x, y;$/;"	m	struct:window	access:public
+window_destroy	window.c	/^int window_destroy()$/;"	f
+window_destroy	window.h	/^int window_destroy();$/;"	p	signature:()
+window_info	window.h	/^struct window_info {$/;"	s
+window_info::bpp	window.h	/^	int bpp;$/;"	m	struct:window_info	access:public
+window_info::fd	window.h	/^	int fd;$/;"	m	struct:window_info	access:public
+window_info::fix	window.h	/^	struct fb_fix_screeninfo fix;$/;"	m	struct:window_info	typeref:struct:window_info::fb_fix_screeninfo	access:public
+window_info::height	window.h	/^	int height;$/;"	m	struct:window_info	access:public
+window_info::icon	window.h	/^	u8 *icon;$/;"	m	struct:window_info	access:public
+window_info::icon_size	window.h	/^	size_t icon_size;$/;"	m	struct:window_info	access:public
+window_info::icon_win	window.h	/^	struct window icon_win;$/;"	m	struct:window_info	typeref:struct:window_info::window	access:public
+window_info::lrc	window.h	/^	u8 *lrc;$/;"	m	struct:window_info	access:public
+window_info::lrc_size	window.h	/^	size_t lrc_size;$/;"	m	struct:window_info	access:public
+window_info::param	window.h	/^	struct mp3_param *param;$/;"	m	struct:window_info	typeref:struct:window_info::mp3_param	access:public
+window_info::progressbar	window.h	/^	struct progressbar_win progressbar;$/;"	m	struct:window_info	typeref:struct:window_info::progressbar_win	access:public
+window_info::text	window.h	/^	struct text_win text;$/;"	m	struct:window_info	typeref:struct:window_info::text_win	access:public
+window_info::total	window.h	/^	struct timeval total;$/;"	m	struct:window_info	typeref:struct:window_info::timeval	access:public
+window_info::var	window.h	/^	struct fb_var_screeninfo var;$/;"	m	struct:window_info	typeref:struct:window_info::fb_var_screeninfo	access:public
+window_info::vm	window.h	/^	void *vm;$/;"	m	struct:window_info	access:public
+window_info::wave_win	window.h	/^	struct window wave_win;$/;"	m	struct:window_info	typeref:struct:window_info::window	access:public
+window_info::width	window.h	/^	int width;$/;"	m	struct:window_info	access:public
+window_init	window.c	/^struct window_info * window_init()$/;"	f
+window_init	window.h	/^struct window_info *window_init();$/;"	p	signature:()
+windows	window.c	/^static struct window_info windows;$/;"	v	typeref:struct:window_info	file:
+write	fifo.h	/^	size_t write;$/;"	m	struct:fifo	access:public
+x	window.h	/^	int x, y;$/;"	m	struct:window	access:public
+xrun_recovery	alsa.c	/^static int xrun_recovery(snd_pcm_t *handle, int err)$/;"	f	file:	signature:(snd_pcm_t *handle, int err)
+xsize	mpaudec.c	/^    int xsize;$/;"	m	struct:HuffTable	file:	access:public
+y	window.h	/^	int x, y;$/;"	m	struct:window	access:public
